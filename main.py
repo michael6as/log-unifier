@@ -1,6 +1,6 @@
 from unifier import LogsUnifier
 
-dir_path = 'C:\\Users\\Michael\\PycharmProjects\\log-unifier\\input'
+dir_path = '.\\input'
 log_path = 'unify.log'
 
 user_input = input('Enter the logs directory: ')
